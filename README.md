@@ -38,7 +38,7 @@ The data for this project was found [here](https://www.kaggle.com/datasets/thede
 
 This repository contains the following: 
 
-* A [Power BI file]() which contains a dashboard of the data. 
+* A [Power BI file](https://github.com/deengini/us_healthcare_quality_project/blob/main/hospital_viz.pbix) which contains a dashboard of the data. 
 
 * An [image file](https://github.com/deengini/us_healthcare_quality_project/blob/main/hospital_viz.jpg) which contains the same dashboard as above but for easier viewing access. 
 
