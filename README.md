@@ -2,6 +2,8 @@
 
 # **U.S. Healthcare Quality: Analyzing Mortality and Readmission Rates in Health Facilities Across the United States**
 
+![screenshot](hospital_viz.jpg)
+
 ## **Project Description**
 
 This repository hosts a portfolio project by the author based on U.S healthcare. The goal of this project was to measure and analyze the performance of 4413 health faciltiies across 51 U.S states on several key metrics: 
