@@ -40,7 +40,7 @@ This repository contains the following:
 
 * A [Power BI file]() which contains a dashboard of the data. 
 
-* An [image file]() which contains the same dashboard as above but for easier viewing access. 
+* An [image file](https://github.com/deengini/us_healthcare_quality_project/blob/main/hospital_viz.jpg) which contains the same dashboard as above but for easier viewing access. 
 
 ## **Project Applications**
 
