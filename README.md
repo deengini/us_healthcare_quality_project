@@ -1,5 +1,3 @@
-# us_healthcare_quality_project
-
 # **U.S. Healthcare Quality: Analyzing Mortality and Readmission Rates in Health Facilities Across the United States**
 
 ![screenshot](hospital_viz.jpg)
